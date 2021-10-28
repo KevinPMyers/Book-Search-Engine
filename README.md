@@ -3,7 +3,8 @@
 ## Preview
 This project was to refactor an existing RESTful code base and replace with a GraphQL API using an Apollo Server
 
-![Saved Books]<img src="client\src\assets\book-search.PNG" />
+Deployed screenshot sample:
+<img src="client\src\assets\book-search.PNG" />
 
 Live URL: https://vast-springs-99727.herokuapp.com/ 
 
